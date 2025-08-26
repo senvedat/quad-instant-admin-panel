@@ -4,6 +4,14 @@
 
 Instantly create professional admin panels for your PostgreSQL databases with built-in visual editor and custom SQL query capabilities. A completely self-hosted, no-code solution with zero telemetry.
 
+## 💻 Screenshot
+
+<img width="1680" height="962" alt="Image" src="https://github.com/user-attachments/assets/d2169176-0e7c-4667-882d-3d7af0d61197" />
+<img width="1680" height="961" alt="Image" src="https://github.com/user-attachments/assets/2ae53fb4-ca2d-410a-b164-1e43a054f092" />
+<img width="1680" height="962" alt="Image" src="https://github.com/user-attachments/assets/aa88b289-d31b-4637-8dc9-e4071d689ea6" />
+<img width="1680" height="962" alt="Image" src="https://github.com/user-attachments/assets/e63832bd-e96e-41b2-a654-e114907482db" />
+<img width="1680" height="961" alt="Image" src="https://github.com/user-attachments/assets/88e4d3bb-5518-481f-8441-1f4d6ae3b98e" />
+
 ## ✨ Features
 
 - 🚀 **Instant Setup** - Get your admin panel running in minutes
